@@ -3,11 +3,11 @@
   <title>李程帅</title>
   
   <subtitle>生活明朗, 万物可爱</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://lichengshuai123.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://lichengshuai123.github.io/"/>
   <updated>2023-10-30T08:08:02.561Z</updated>
-  <id>http://example.com/</id>
+  <id>https://lichengshuai123.github.io/</id>
   
   <author>
     <name>李程帅</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://lichengshuai123.github.io/posts/4a17b156.html"/>
+    <id>https://lichengshuai123.github.io/posts/4a17b156.html</id>
     <published>2023-10-30T07:35:59.766Z</published>
     <updated>2023-10-30T08:08:02.561Z</updated>
     
